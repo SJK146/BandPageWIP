@@ -1,5 +1,23 @@
 h1{
-background: black;
-  color: blue;
+/*background: black;
+*/
+ color: blue;
   text-align: center;
+}
+.Header{
+
+border:1px outset black;
+  /*background-color: lightblue;*/
+  text-align: center;
+}
+#Banner_H1{
+  color: white;
+  text-align: center;
+
+}
+.Banner_title{
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fthemediadesk.com%2Fnewfiles3%2Fbanner.jpg&f=1&nofb=1');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
