@@ -1,11 +1,11 @@
 .Main_Page_Selector{
   margin: 0 auto;
   padding: 0;
-  background-color: black;
+  background-color: gray;
 }
 .Header_wrap{
   vertical-align: middle;
-  text-align: left;
+  text-align: center;
   height: 40px;
   background-color: darkblue;
 }
@@ -16,31 +16,19 @@ background-color: blue;
 /**/
 .Title{
   display: inline-block;
-  color: white;
-  text-align: left;
-  font-size: 20px;
+  text-align: center;
+  color: black;
+  font-size: 30px;
 
 }
 .Banner_image{
+
 color: white;
 background-color: red;
 vertical-align: middle;
 }
-#Head .Body{
 
-position: relative;
-height: 45px;
-border-radius: 5px;
-padding: 0px 40px;
-}
-.Lists{
-overflow: hidden;
-background-color: gray;
-width: 100%;
-
-}
-#Head .Lists ul li {
-float: left;
-
-
+#ul_top_hypers li{
+    display: inline;
+    list-style: none;
 }
